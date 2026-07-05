@@ -1,0 +1,8 @@
+chembl_id,SMILES,value,units,assay_id,assay_description
+CHEMBL549220,Cc1cc(C(=O)OCC(N)=O)c(C)n1-c1ccc(F)cc1,29.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL533269,Cc1cc(C(=O)OCC(=O)Nc2c(C)n(C)n(-c3ccccc3)c2=O)c(C)n1-c1ccc(F)cc1,60.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL2113927,Cc1cc(/C=C2\S/C(=N\c3ccccc3)NC2=O)c(C)n1-c1ccc(F)cc1,15.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL2113937,Cc1ccc(-n2c(C)cc(/C=C3\S/C(=N\c4ccccc4)NC3=O)c2C)cc1,7.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL2113938,Cc1cc(/C=C2\S/C(=N\c3ccccc3)NC2=O)c(C)n1-c1ccc(C(F)(F)F)cc1,7.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL2113939,Cc1cc(/C=C2\S/C(=N\c3ccccc3)NC2=O)c(C)n1-c1cc(C(F)(F)F)cc(C(F)(F)F)c1,7.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "
+CHEMBL2113948,Cc1cc(/C=C2\S/C(=N\c3ccccc3)N(C3CCCC3)C2=O)c(C)n1-c1ccc(C(F)(F)F)cc1,14.0,uL min-1 mg-1,CHEMBL2114007,"OSM: Microsomal stability: 0.5 uM substrate, 0.4 mg/mL protein, NADPH cofactor). Analysed by LC/MS. "

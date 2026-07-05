@@ -1,0 +1,3 @@
+chembl_id,SMILES,value,units,assay_id,assay_description
+CHEMBL3526804,N[C@@H](CCC(=O)O)C(=O)N[C@@H](CSSC1CCN(C(C(=O)C2CC2)c2ccccc2F)C/C1=C/C(=O)O)C(=O)NCC(=O)O,0.882,uL/(min.pmol),CHEMBL3534711,Drug metabolism assessed as intrinsic clearance for human glutaredoxin-mediated 2-[1-2-cyclopropyl-1
+CHEMBL3526804,N[C@@H](CCC(=O)O)C(=O)N[C@@H](CSSC1CCN(C(C(=O)C2CC2)c2ccccc2F)C/C1=C/C(=O)O)C(=O)NCC(=O)O,0.00804,uL/(min.pmol),CHEMBL3534717,Drug metabolism assessed as intrinsic clearance for human thioredoxin-mediated 2-[1-2-cyclopropyl-1-
